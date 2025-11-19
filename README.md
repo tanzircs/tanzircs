@@ -6,7 +6,7 @@
 
  ## 🧑‍💻 About Me
 
-Hi! I'm **Md. Shukur Mahmud**, a passionate **Fullstack Developer** specializing in **Next.js, React.js, and Node.js**.  
+Hi! I'm **Tanzir Ahmed**, a passionate **Fullstack Developer** specializing in **React, Firebase, MongoDB and Next.js**.  
 I build modern, responsive web applications and enjoy exploring new technologies.
 
 ---
